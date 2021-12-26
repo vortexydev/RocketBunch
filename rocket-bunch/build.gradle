@@ -68,8 +68,8 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.vortexydev'
-                artifactId = 'rocketbunch'
-                version = '1.0'
+                artifactId = 'rocket-bunch'
+                version = '1.3'
             }
         }
     }
