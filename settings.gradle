@@ -9,4 +9,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "rocketbunch"
 include ':app'
-include ':rocketbunch'
+include ':rocket-bunch'

@@ -10,7 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/rocketbunch" />
+            <option value="$PROJECT_DIR$/rocket-bunch" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
