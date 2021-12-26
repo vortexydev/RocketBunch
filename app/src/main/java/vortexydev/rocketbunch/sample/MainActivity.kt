@@ -1,4 +1,4 @@
-package vortexydev.rocketbunch
+package vortexydev.rocketbunch.sample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
